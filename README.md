@@ -12,7 +12,7 @@
     width=300 height=400><br>
     <hr>
     <h1> 3. 멤버쉽x 소스선택 </h1>
-    <img src ="https://github.com/HanJunKwon/Android_PizzaOrder/blob/master/resultCapture/Screenshot_1480180737.png?raw=true"
+    <img src ="https://github.com/HanJunKwon/Android_PizzaOrder/blob/master/resultCapture/Screenshot_1480180757.png?raw=true"
     width=300 height=400><br>
     <hr>
     <h1> 4. 멤버쉽 </h1>
